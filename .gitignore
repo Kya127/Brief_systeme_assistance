@@ -1,0 +1,14 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers système Windows
+Thumbs.db
+.DS_Store
+
+
+# VSCode configuration
+.vscode/
